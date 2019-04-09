@@ -1,0 +1,10 @@
+Let a shop has the information of customers who are registered with them including their annual income.
+The shop maintains a spend score (between 1-100) of customers based on their previsous purchases.
+Now the shop wants to identify its customers in groups accroding to their annual income and spend score.
+To do so, lets create clusters of customers. 
+First, we need to plot the scatter plot of customers based on their annual income and spend score.
+Now start making cluster of customers using K-Means Clustering.
+Using "Elbow Method", find the nober of cluster (K).
+After finding the appropriate value of K from the grapg plot, start fitting the clsuters. Use "K-means++" for initialization.
+Now plot the clusters with their centroid and label each of the cluster. Use differenct colours for each of the cluster.
+That's all.
